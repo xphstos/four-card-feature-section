@@ -134,6 +134,7 @@ article h1 {
 
 article p {
 	margin: 0 0 2.6666666667rem;
+	color: var(--grey);
 }
 
 article img {
